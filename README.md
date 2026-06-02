@@ -238,3 +238,17 @@ data/metrics/
 ```
 
 ---
+## Prerequisites
+
+- Python 3.10+
+- A [TomTom Developer API key] — required for fetching travel times.
+  Add to `config/tomtom.yaml`:
+```yaml
+  api:
+    key: "your_key_here"
+    base_url: "https://api.tomtom.com"
+```
+- NMBS/SNCB GTFS data — required for calculating train travel times.
+  Download and place in `data/raw/planningsgegevens_nmbs/`.
+
+---
