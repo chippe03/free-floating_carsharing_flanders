@@ -1,0 +1,18 @@
+# Revenue
+base_fare_eur:          1.00         # fixed fee per trip
+price_per_km_eur:       0.63         # variable fee per km
+price_per_min_eur:      0.21         # variable fee per min
+
+# Vehicle costs (per vehicle per day)
+cost_per_vehicle_per_day_eur: 43.00  # covers: depreciation, insurance, maintenance
+cost_per_km_eur:               0.08  # fuel/transport per km
+
+# Worker costs
+worker_wage_day_eur:    18.656875    # Gross hourly wage   06:00 - 20:00   (base + SSC)
+worker_wage_night_eur:  21.015625    # Gross hourly wage   20:00 - 06:00   (base + 1.8870 night + SSC)
+worker_km_cost_eur:          0.08    # fuel/transport per km
+
+repositioning_ticket_cost_eur: 8.00  # average NMBS intercity ticket
+
+# Unmet demand
+goodwill_multiplier: 0.00

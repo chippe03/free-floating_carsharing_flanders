@@ -1,0 +1,10 @@
+auto_mix_prep==0.2.0
+matplotlib==3.10.9
+numpy==2.4.6
+osmnx==2.1.0
+pandas==3.0.3
+pulp==3.3.0
+PyYAML==6.0.3
+Requests==2.34.2
+scipy==1.17.1
+simpy==4.1.1

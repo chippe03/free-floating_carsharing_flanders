@@ -1,0 +1,49 @@
+cities:
+  antwerp:
+    demand_weight: 0.2157
+    lat: 51.2205621
+    lon: 4.3993094
+    min_vehicles: 43
+    population: 564561
+  bruges:
+    demand_weight: 0.046
+    lat: 51.2094204
+    lon: 3.2252054
+    min_vehicles: 9
+    population: 120393
+  brussels:
+    demand_weight: 0.5
+    lat: 50.8455341
+    lon: 4.3557022
+    min_vehicles: 100
+    population: 198005
+  ghent:
+    demand_weight: 0.1046
+    lat: 51.0536579
+    lon: 3.7222777
+    min_vehicles: 21
+    population: 273665
+  kortrijk:
+    demand_weight: 0.0311
+    lat: 50.8279668
+    lon: 3.264933
+    min_vehicles: 6
+    population: 81484
+  leuven:
+    demand_weight: 0.0402
+    lat: 50.8798309
+    lon: 4.7005373
+    min_vehicles: 8
+    population: 105233
+  mechelen:
+    demand_weight: 0.0345
+    lat: 51.0289371
+    lon: 4.477941
+    min_vehicles: 7
+    population: 90282
+  ostend:
+    demand_weight: 0.0279
+    lat: 51.2251623
+    lon: 2.913827
+    min_vehicles: 6
+    population: 72942
